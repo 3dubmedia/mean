@@ -11,7 +11,7 @@ Requires latest node.js with npm
 </ul>
 <strong>Usage:</strong>
 <ul>
-<li>npm start - transpiles and launches a dev server connection</li>
+<li>npm start - transpiles and launches app from source dir</li>
 <li>npm run build - transpiles and uses gulp to move files from the app dir to the build dir</li>
-<li>npm run prod - performs the same actions as build and then launches the production server connection</li>
+<li>npm run prod - performs the same actions as build and then launches the app from the build dir</li>
 </ul>
