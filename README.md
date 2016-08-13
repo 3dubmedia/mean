@@ -1,5 +1,5 @@
 # mean
-MEAN Stack: mongodb,express,angular2 rc5, gulp
+MEAN Stack: mongodb, express, angular2 rc5, gulp
 
 Requires latest node.js with npm
 
